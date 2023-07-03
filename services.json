@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Website Design",
+    "description": "Create visually appealing and user-friendly website designs tailored to your brand and target audience.",
+    
+  },
+  {
+    "id": 2,
+    "title": "Front-end Development",
+    "description": "Develop the client-side of your website using HTML, CSS, and JavaScript to ensure a responsive and interactive user experience.",
+  
+  },
+  {
+    "id": 3,
+    "title": "Back-end Development",
+    "description": "Build the server-side components and database integration to support your website's functionality and data management.",
+  
+  },
+{
+  "id": 4,
+  "title": "Website Redesign",
+  "description": "Revamp your existing website design to improve its visual appeal and enhance user experience.",
+  
+},
+{
+  "id": 5,
+  "title": "React Component Development",
+  "description": "Develop reusable and modular React components to enhance the functionality and user interface of your web application.",
+  
+},
+
+  
+]
